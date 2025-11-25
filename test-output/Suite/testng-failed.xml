@@ -8,7 +8,7 @@
           <include name="quit_driver"/>
           <include name="screenshotcaptue"/>
           <include name="Driver_launching"/>
-          <include name="logintest" invocation-numbers="0 2"/>
+          <include name="logintest" invocation-numbers="1 0 2 4"/>
         </methods>
       </class> <!-- Listeners.drivercalss -->
     </classes>
