@@ -5,6 +5,7 @@
     <classes>
       
       <class name="Listeners.windowHandles"/>
+       <class name="Listeners.Dynamic_dropdown"/>
       
     </classes>
   </test> <!-- Test -->
