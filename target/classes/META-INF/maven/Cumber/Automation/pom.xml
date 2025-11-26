@@ -4,19 +4,13 @@
   <artifactId>Automation</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <dependencies>
-	<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-java -->
+<!-- https://mvnrepository.com/artifact/org.testng/testng -->
 <dependency>
-    <groupId>io.cucumber</groupId>
-    <artifactId>cucumber-java</artifactId>
-    <version>7.20.1</version>
+    <groupId>org.testng</groupId>
+    <artifactId>testng</artifactId>
+    <version>7.11.0</version>
+    <scope>test</scope>
 </dependency>
-<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-testng -->
-<dependency>
-    <groupId>io.cucumber</groupId>
-    <artifactId>cucumber-testng</artifactId>
-    <version>7.20.1</version>
-</dependency>
-
 <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
