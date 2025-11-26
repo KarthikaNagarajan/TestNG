@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Listeners.Upload_And_Download">
+      <class name="Listeners.Dynamic_dropdown">
         <methods>
           <include name="WindowHandles"/>
         </methods>
-      </class> <!-- Listeners.Upload_And_Download -->
+      </class> <!-- Listeners.Dynamic_dropdown -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
