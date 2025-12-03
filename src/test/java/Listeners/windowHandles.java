@@ -9,7 +9,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 import java.util.*;
-public class windowHandles {
+public class windowHandles  extends BaseTest {
 	public static WebDriver driver;
 	@Test
 	public void WindowHandles() {
